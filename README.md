@@ -5,8 +5,6 @@
 wpf
 ```
 #### 使用样式
-```
-MahApp.Metro
-```
+[MahApp.Metro](http://mahapps.com/)
 #### 开源控件<br>
 [GMap.net](http://greatmaps.codeplex.com/)
